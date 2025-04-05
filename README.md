@@ -50,6 +50,7 @@ Pistachio_Image_Dataset/
 │   ├── Kirmizi_Pistachio/ (2148 images)
 │   └── Siirt_Pistachio/ (2148 images)
 └── Pistachio_Image_Dataset_Request.txt
+
 note ==> if you can't understand nothing the give this  directory map to ai then upload this with sam name in the drive then ( AI ) will instruct what will do next and how 
 
 ---
